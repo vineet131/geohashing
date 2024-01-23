@@ -1,6 +1,8 @@
 ## Geohashing
 
 Calculations related to the daily game of Geohashing.
+Since the original author makew0rld said [he won't maintain this other than bugs in his OG code](https://github.com/makew0rld/geohashing/pull/3), I will use this fork
+for some improvements.
 
 [Original XKCD comic here](https://xkcd.com/426/)
 
